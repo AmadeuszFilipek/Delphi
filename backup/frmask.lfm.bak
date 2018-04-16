@@ -1,0 +1,8 @@
+object FormAsk: TFormAsk
+  Left = 529
+  Height = 209
+  Top = 340
+  Width = 364
+  Caption = 'FormAsk'
+  LCLVersion = '1.6.4.0'
+end
